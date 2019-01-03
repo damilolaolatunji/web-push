@@ -1,6 +1,6 @@
 # Web Push Notifications Demo
 
-Tutorial:
+Tutorial: https://pusher.com/tutorials/push-notifications-node-service-workers
 
 ## Getting Started
 
